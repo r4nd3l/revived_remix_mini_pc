@@ -1,0 +1,2 @@
+elf.c:25:5:do_bootelf	64	static
+elf.c:111:5:do_bootvx	192	static

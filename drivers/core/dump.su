@@ -1,0 +1,11 @@
+dump.c:33:13:show_devices	80	static
+dump.c:87:13:dm_dump_tree_single	48	static
+dump.c:25:12:h_cmp_uclass_id	32	static
+dump.c:104:13:dm_dump_tree_recursive	64	static
+dump.c:164:13:dm_dump_uclass_single	80	static
+dump.c:128:6:dm_dump_tree	48	static
+dump.c:182:6:dm_dump_uclass	80	static
+dump.c:211:6:dm_dump_driver_compat	64	static
+dump.c:235:6:dm_dump_drivers	96	static
+dump.c:274:6:dm_dump_static_driver_info	48	static
+dump.c:287:6:dm_dump_mem	96	static

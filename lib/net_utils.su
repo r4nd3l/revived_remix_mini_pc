@@ -1,0 +1,5 @@
+net_utils.c:16:16:string_to_ip	64	static
+net_utils.c:155:6:string_to_enetaddr	64	static
+net_utils.c:170:6:compute_ip_checksum	16	static
+net_utils.c:193:6:add_ip_checksums	0	static
+net_utils.c:213:5:ip_checksum_ok	16	static

@@ -1,0 +1,7 @@
+fat.c:17:12:do_fat_size	0	static
+fat.c:30:5:do_fat_fsload	0	static
+fat.c:50:12:do_fat_ls	0	static
+fat.c:96:12:do_fat_fswrite	0	static
+fat.c:110:12:do_fat_rm	0	static
+fat.c:123:12:do_fat_mkdir	0	static
+fat.c:63:12:do_fat_fsinfo	192	static

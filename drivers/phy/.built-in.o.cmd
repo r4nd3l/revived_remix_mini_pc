@@ -1,0 +1,1 @@
+cmd_drivers/phy/built-in.o :=  rm -f drivers/phy/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/phy/built-in.o drivers/phy/allwinner/built-in.o drivers/phy/marvell/built-in.o drivers/phy/rockchip/built-in.o drivers/phy/socionext/built-in.o drivers/phy/phy-uclass.o drivers/phy/cadence/built-in.o drivers/phy/ti/built-in.o drivers/phy/qcom/built-in.o drivers/phy/renesas/built-in.o

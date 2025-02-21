@@ -1,0 +1,8 @@
+fixed.c:79:12:fixed_regulator_set_enable	32	static
+fixed.c:74:12:fixed_regulator_get_enable	32	static
+fixed.c:58:12:fixed_regulator_get_current	16	static
+fixed.c:42:12:fixed_regulator_get_value	16	static
+fixed.c:25:12:fixed_regulator_of_to_plat	48	static
+fixed.c:84:12:fixed_clock_regulator_get_enable	16	static
+fixed.c:91:12:fixed_clock_regulator_set_enable	48	static
+fixed.c:116:12:fixed_clock_regulator_probe	32	static

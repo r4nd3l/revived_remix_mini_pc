@@ -1,0 +1,10 @@
+efi_bootmgr.c:113:21:try_load_from_file_path	112	static
+efi_bootmgr.c:235:21:search_default_file	160	static
+efi_bootmgr.c:614:21:try_load_entry	160	static
+efi_bootmgr.c:793:1:efi_bootmgr_enumerate_boot_options	224	static
+efi_bootmgr.c:719:14:efi_bootmgr_load	80	static
+efi_bootmgr.c:981:14:efi_bootmgr_get_unused_bootoption	96	static
+efi_bootmgr.c:1016:14:efi_bootmgr_append_bootorder	96	static
+efi_bootmgr.c:1056:14:efi_bootmgr_delete_boot_option	112	static
+efi_bootmgr.c:1108:14:efi_bootmgr_update_media_device_boot_option	224	static
+efi_bootmgr.c:1257:14:efi_bootmgr_run	96	static

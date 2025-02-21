@@ -1,0 +1,5 @@
+of_extra.c:14:5:ofnode_read_fmap_entry	48	static
+of_extra.c:55:5:ofnode_decode_region	48	static
+of_extra.c:76:5:ofnode_decode_memory_region	160	static
+of_extra.c:136:6:ofnode_phy_is_fixed_link	64	static
+of_extra.c:159:6:ofnode_eth_uses_inband_aneg	16	static

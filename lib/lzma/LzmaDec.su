@@ -1,0 +1,14 @@
+LzmaDec.c:441:26:LzmaDec_WriteRem	0	static
+LzmaDec.c:500:19:LzmaDec_TryDummy	0	static
+LzmaDec.c:467:25:LzmaDec_DecodeReal2	192	static
+LzmaDec.c:697:6:LzmaDec_InitDicAndState	0	static
+LzmaDec.c:713:6:LzmaDec_Init	0	static
+LzmaDec.c:731:6:LzmaDec_DecodeToDic	96	static
+LzmaDec.c:852:6:LzmaDec_DecodeToBuf	128	static
+LzmaDec.c:892:6:LzmaDec_FreeProbs	32	static
+LzmaDec.c:936:13:LzmaDec_AllocateProbs2.isra.1	48	static
+LzmaDec.c:904:6:LzmaDec_Free	32	static
+LzmaDec.c:910:6:LzmaProps_Decode	0	static
+LzmaDec.c:950:6:LzmaDec_AllocateProbs	48	static
+LzmaDec.c:959:6:LzmaDec_Allocate	64	static
+LzmaDec.c:981:6:LzmaDecode	240	static

@@ -1,0 +1,5 @@
+cyclic.c:82:1:complete_cyclic	0	static
+cyclic.c:60:12:do_cyclic_list	64	static
+cyclic.c:33:12:do_cyclic_demo	48	static
+cyclic.c:25:13:cyclic_demo	0	static
+cyclic.c:82:1:do_cyclic	48	static

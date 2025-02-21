@@ -1,0 +1,14 @@
+alist.c:56:13:alist_expand_to.part.0	48	static
+alist.c:19:6:alist_init	48	static
+alist.c:36:6:alist_uninit	32	static
+alist.c:44:6:alist_empty	0	static
+alist.c:81:6:alist_expand_by	0	static
+alist.c:106:13:alist_get_ptr	0	static
+alist.c:114:5:alist_calc_index	0	static
+alist.c:126:6:alist_update_end	16	static
+alist.c:134:6:alist_chk_ptr	16	static
+alist.c:141:13:alist_next_ptrd	16	static
+alist.c:150:7:alist_ensure_ptr	48	static
+alist.c:165:7:alist_add_placeholder	0	static
+alist.c:170:7:alist_add_ptr	48	static
+alist.c:182:7:alist_uninit_move_ptr	32	static

@@ -1,0 +1,3 @@
+dev.c:38:6:ext4fs_set_blk_dev	32	static
+dev.c:49:5:ext4fs_devread	48	static
+dev.c:56:5:ext4_read_superblock	32	static

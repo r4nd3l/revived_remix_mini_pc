@@ -1,0 +1,3 @@
+sunxi_lcd.c:38:12:sunxi_lcd_enable	64	static
+sunxi_lcd.c:69:12:sunxi_lcd_read_timing	32	static
+sunxi_lcd.c:79:12:sunxi_lcd_probe	48	static

@@ -1,0 +1,1 @@
+cmd_drivers/clk/sunxi/built-in.o :=  rm -f drivers/clk/sunxi/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/clk/sunxi/built-in.o drivers/clk/sunxi/clk_sunxi.o drivers/clk/sunxi/clk_sun6i_rtc.o drivers/clk/sunxi/clk_a31_r.o drivers/clk/sunxi/clk_a64.o

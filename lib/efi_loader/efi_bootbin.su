@@ -1,0 +1,5 @@
+efi_bootbin.c:28:6:efi_get_image_parameters	0	static
+efi_bootbin.c:37:6:efi_clear_bootdev	32	static
+efi_bootbin.c:59:6:efi_set_bootdev	80	static
+efi_bootbin.c:123:14:efi_run_image	80	static
+efi_bootbin.c:200:14:efi_binary_run	48	static

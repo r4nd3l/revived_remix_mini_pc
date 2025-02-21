@@ -1,0 +1,2 @@
+clk_fixed_factor.c:25:14:clk_fixed_factor_get_rate	32	static
+clk_fixed_factor.c:43:12:clk_fixed_factor_of_to_plat	48	static

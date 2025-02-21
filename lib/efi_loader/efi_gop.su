@@ -1,0 +1,5 @@
+efi_gop.c:40:28:gop_query_mode	48	static
+efi_gop.c:278:21:gop_blt_video_fill.isra.0	16	static
+efi_gop.c:403:28:gop_blt	128	static
+efi_gop.c:359:28:gop_set_mode	48	static
+efi_gop.c:465:14:efi_gop_register	96	static

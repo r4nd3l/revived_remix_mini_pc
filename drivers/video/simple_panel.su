@@ -1,0 +1,6 @@
+simple_panel.c:56:12:simple_panel_get_edid_timing	304	static
+simple_panel.c:107:12:simple_panel_get_display_timing	32	static
+simple_panel.c:40:12:simple_panel_set_backlight	32	static
+simple_panel.c:25:12:simple_panel_enable_backlight	32	static
+simple_panel.c:122:12:simple_panel_of_to_plat	32	static
+simple_panel.c:158:12:simple_panel_probe	48	static

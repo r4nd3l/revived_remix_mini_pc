@@ -1,0 +1,9 @@
+pinctrl-sunxi.c:146:12:sunxi_pinctrl_get_pin_muxing	48	static
+pinctrl-sunxi.c:127:12:sunxi_pinctrl_pinconf_set	48	static
+pinctrl-sunxi.c:69:20:sunxi_pinctrl_get_function_name	32	static
+pinctrl-sunxi.c:62:12:sunxi_pinctrl_get_functions_count	16	static
+pinctrl-sunxi.c:49:20:sunxi_pinctrl_get_pin_name	32	static
+pinctrl-sunxi.c:42:12:sunxi_pinctrl_get_pins_count	16	static
+pinctrl-sunxi.c:77:12:sunxi_pinctrl_pinmux_set	48	static
+pinctrl-sunxi.c:225:12:sunxi_pinctrl_probe	16	static
+pinctrl-sunxi.c:185:12:sunxi_pinctrl_bind	96	static

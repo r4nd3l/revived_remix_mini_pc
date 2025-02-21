@@ -1,0 +1,12 @@
+smbios.c:319:12:smbios_string_table_len	0	static
+smbios.c:562:12:smbios_write_type127	48	static
+smbios.c:545:12:smbios_write_type32	48	static
+smbios.c:143:12:smbios_add_string	48	static
+smbios.c:220:12:smbios_add_prop_si.isra.0	208	static
+smbios.c:462:12:smbios_write_type3	64	static
+smbios.c:329:12:smbios_write_type0	48	static
+smbios.c:425:12:smbios_write_type2	48	static
+smbios.c:384:12:smbios_write_type1	64	static
+smbios.c:520:12:smbios_write_type4	48	static
+smbios.c:283:5:smbios_update_version	48	static
+smbios.c:589:7:write_smbios_table	128	static

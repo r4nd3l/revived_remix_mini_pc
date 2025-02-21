@@ -1,0 +1,8 @@
+edid.c:171:13:edid_find_valid_timing	96	static
+edid.c:277:14:snip	32	static
+edid.c:19:5:edid_check_info	32	static
+edid.c:33:5:edid_check_checksum	0	static
+edid.c:44:5:edid_get_ranges	64	static
+edid.c:194:5:edid_get_timing_validate	80	static
+edid.c:264:5:edid_get_timing	0	static
+edid.c:364:6:edid_print_info	96	static

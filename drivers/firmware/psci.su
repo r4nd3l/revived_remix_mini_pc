@@ -1,0 +1,9 @@
+psci.c:240:28:do_psci_probe	32	static
+psci.c:208:12:psci_probe	32	static
+psci.c:173:12:psci_bind	32	static
+psci.c:50:29:invoke_psci_fn	64	static
+psci.c:254:27:efi_reset_system	16	static
+psci.c:248:14:efi_reset_system_init	16	static
+psci.c:272:6:reset_misc	16	static
+psci.c:279:6:psci_sys_reset	32	static
+psci.c:299:6:psci_sys_poweroff	16	static

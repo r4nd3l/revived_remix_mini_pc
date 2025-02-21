@@ -1,0 +1,9 @@
+initrddump.c:57:13:color	0	static
+initrddump.c:68:13:print	0	static
+initrddump.c:76:13:cls	0	static
+initrddump.c:89:13:error	32	static
+initrddump.c:102:13:printx	48	static
+initrddump.c:125:13:efi_drain_input	0	static
+initrddump.c:278:21:get_initrd	96	static
+initrddump.c:249:13:starts_with	0	static
+initrddump.c:468:21:efi_main	320	static

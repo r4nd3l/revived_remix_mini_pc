@@ -1,0 +1,5 @@
+sunxi_wdt.c:57:12:sunxi_wdt_reset	16	static
+sunxi_wdt.c:97:12:sunxi_wdt_stop	16	static
+sunxi_wdt.c:68:12:sunxi_wdt_start	32	static
+sunxi_wdt.c:108:12:sunxi_wdt_expire_now	32	static
+sunxi_wdt.c:163:12:sunxi_wdt_probe	32	static

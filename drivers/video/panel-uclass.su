@@ -1,0 +1,3 @@
+panel-uclass.c:12:5:panel_enable_backlight	0	static
+panel-uclass.c:30:5:panel_set_backlight	0	static
+panel-uclass.c:40:5:panel_get_display_timing	0	static

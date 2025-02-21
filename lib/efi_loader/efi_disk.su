@@ -1,0 +1,12 @@
+efi_disk.c:297:28:efi_disk_flush_blocks	16	static
+efi_disk.c:61:28:efi_disk_reset	16	static
+efi_disk.c:374:13:efi_disk_free_diskobj	32	static
+efi_disk.c:400:21:efi_disk_add_dev.isra.3.part.4	96	static
+efi_disk.c:165:28:efi_disk_read_blocks	64	static
+efi_disk.c:231:28:efi_disk_write_blocks	64	static
+efi_disk.c:77:6:efi_disk_is_removable	32	static
+efi_disk.c:323:1:efi_fs_from_path	64	static
+efi_disk.c:658:5:efi_disk_probe	96	static
+efi_disk.c:713:5:efi_disk_remove	64	static
+efi_disk.c:784:14:efi_disk_get_device_name	80	static
+efi_disk.c:834:14:efi_disks_register	32	static

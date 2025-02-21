@@ -1,0 +1,2 @@
+ext2.c:34:5:do_ext2load	0	static
+ext2.c:25:12:do_ext2ls	0	static

@@ -1,0 +1,13 @@
+dw_hdmi.c:78:13:dw_hdmi_write	0	static
+dw_hdmi.c:112:13:hdmi_mod	48	static
+dw_hdmi.c:526:13:hdmi_bus_fmt_is_rgb	0	static
+dw_hdmi.c:93:11:dw_hdmi_read	0	static
+dw_hdmi.c:811:12:hdmi_read_edid	112	static
+dw_hdmi.c:324:13:hdmi_phy_i2c_write	48	static
+dw_hdmi.c:904:5:dw_hdmi_phy_cfg	64	static
+dw_hdmi.c:925:5:dw_hdmi_phy_wait_for_hpd	48	static
+dw_hdmi.c:939:5:dw_hdmi_detect_hpd	32	static
+dw_hdmi.c:955:6:dw_hdmi_phy_init	32	static
+dw_hdmi.c:973:5:dw_hdmi_read_edid	32	static
+dw_hdmi.c:997:5:dw_hdmi_enable	96	static
+dw_hdmi.c:1032:6:dw_hdmi_init	32	static

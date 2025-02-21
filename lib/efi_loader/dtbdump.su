@@ -1,0 +1,10 @@
+dtbdump.c:38:13:print	0	static
+dtbdump.c:50:13:print_char	32	static
+dtbdump.c:95:13:error	32	static
+dtbdump.c:211:12:f2h	16	static
+dtbdump.c:263:13:starts_with	0	static
+dtbdump.c:290:1:open_file_system	96	static
+dtbdump.c:545:13:indent	32	static
+dtbdump.c:228:14:get_dtb	64	static
+dtbdump.c:84:13:printx	32	static
+dtbdump.c:758:21:efi_main	336	static

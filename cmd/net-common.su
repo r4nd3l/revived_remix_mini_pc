@@ -1,0 +1,3 @@
+net-common.c:86:12:do_net	48	static
+net-common.c:29:12:do_net_stats	80	static
+net-common.c:14:12:do_net_list	64	static

@@ -1,0 +1,7 @@
+event.c:56:13:event_type_name	0	static
+event.c:131:5:event_notify	64	static
+event.c:154:5:event_notify_null	0	static
+event.c:159:6:event_show_spy_list	64	static
+event.c:181:5:event_register	64	static
+event.c:199:5:event_uninit	0	static
+event.c:210:5:event_init	0	static

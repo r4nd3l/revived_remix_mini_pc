@@ -1,0 +1,11 @@
+load.c:655:13:bin_data_init	0	static
+load.c:697:13:k_data_save	0	static
+load.c:703:13:k_data_restore	0	static
+load.c:995:12:getcxmodem	16	static
+load.c:1000:14:load_serial_ymodem	1104	static
+load.c:673:13:bin_data_char	0	static
+load.c:604:12:chk1.constprop	0	static
+load.c:614:13:s1_sendpacket.constprop	32	static
+load.c:142:14:load_serial	912	static
+load.c:50:12:do_load_serial	32	static
+load.c:445:12:do_load_serial_bin	176	static

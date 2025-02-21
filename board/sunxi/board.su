@@ -1,0 +1,14 @@
+board.c:239:32:get_spl_header	48	static
+board.c:257:20:get_spl_dt_name	16	static
+board.c:759:13:setup_environment	112	static
+board.c:56:6:i2c_init_board	0	static
+board.c:135:19:env_get_location	32	static
+board.c:189:5:board_init	0	static
+board.c:268:5:dram_init	16	static
+board.c:496:5:board_mmc_init	32	static
+board.c:519:5:mmc_get_env_dev	16	static
+board.c:647:5:g_dnl_board_usb_cable_connected	64	static
+board.c:802:5:misc_init_r	112	static
+board.c:838:5:board_late_init	16	static
+board.c:879:5:ft_board_setup	32	static
+board.c:917:5:board_fit_config_name_match	48	static

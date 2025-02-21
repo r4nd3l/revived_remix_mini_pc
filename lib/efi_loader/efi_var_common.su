@@ -1,0 +1,12 @@
+efi_var_common.c:174:1:efi_get_variable_runtime	32	static
+efi_var_common.c:190:1:efi_get_next_variable_name_runtime	0	static
+efi_var_common.c:58:21:efi_get_variable	64	static
+efi_var_common.c:92:21:efi_set_variable	64	static
+efi_var_common.c:123:21:efi_get_next_variable_name	48	static
+efi_var_common.c:155:21:efi_query_variable_info	48	static
+efi_var_common.c:303:14:efi_init_secure_state	64	static
+efi_var_common.c:360:6:efi_secure_boot_enabled	0	static
+efi_var_common.c:365:24:efi_auth_var_get_type	64	static
+efi_var_common.c:376:19:efi_auth_var_get_guid	64	static
+efi_var_common.c:394:7:efi_get_var	48	static
+efi_var_common.c:426:29:efi_var_collect	144	static

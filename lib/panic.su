@@ -1,0 +1,4 @@
+panic.c:21:13:panic_finish	16	static
+panic.c:35:6:panic_str	16	static
+panic.c:41:6:panic	144	static
+panic.c:52:6:__assert_fail	16	static

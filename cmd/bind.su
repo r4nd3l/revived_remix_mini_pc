@@ -1,0 +1,2 @@
+bind.c:50:12:find_dev	48	static
+bind.c:198:12:do_bind_unbind	64	static

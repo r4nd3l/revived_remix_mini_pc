@@ -1,0 +1,5 @@
+cyclic.c:24:20:cyclic_get_list	0	static
+cyclic.c:30:6:cyclic_register	48	static
+cyclic.c:43:6:cyclic_unregister	0	static
+cyclic.c:91:6:schedule	64	static
+cyclic.c:105:5:cyclic_unregister_all	16	static

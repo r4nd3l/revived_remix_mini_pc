@@ -1,0 +1,8 @@
+binman.c:60:12:binman_entry_find_internal	32	static
+binman.c:81:5:binman_entry_find	0	static
+binman.c:86:5:binman_entry_map	48	static
+binman.c:103:8:binman_section_find_node	0	static
+binman.c:108:6:binman_set_rom_offset	0	static
+binman.c:113:5:binman_get_rom_offset	0	static
+binman.c:118:5:binman_select_subnode	32	static
+binman.c:136:5:binman_init	0	static

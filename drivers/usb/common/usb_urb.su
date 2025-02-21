@@ -1,0 +1,7 @@
+usb_urb.c:52:13:usb_urb_complete	0	static
+usb_urb.c:17:20:usb_dev_get_parent	32	static
+usb_urb.c:61:6:usb_urb_fill	112	static
+usb_urb.c:92:5:usb_urb_submit	48	static
+usb_urb.c:120:5:usb_urb_submit_control	112	static
+usb_urb.c:142:5:usb_urb_submit_bulk	48	static
+usb_urb.c:152:5:usb_urb_submit_irq	48	static

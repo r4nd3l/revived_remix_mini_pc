@@ -1,0 +1,17 @@
+ohci-hcd.c:626:12:ep_rev	0	static
+ohci-hcd.c:227:13:urb_free_priv	0	static
+ohci-hcd.c:1443:20:ohci_get_ohci_dev	16	static
+ohci-hcd.c:871:13:td_fill.isra.2	80	static
+ohci-hcd.c:2094:12:ohci_destroy_int_queue	32	static
+ohci-hcd.c:1742:12:hc_reset	48	static
+ohci-hcd.c:1877:12:hc_interrupt	128	static
+ohci-hcd.c:2086:14:ohci_poll_int_queue	32	static
+ohci-hcd.c:486:5:sohci_submit_job	160	static
+ohci-hcd.c:2076:26:ohci_create_int_queue	112	static
+ohci-hcd.c:1490:12:submit_common_msg	96	static
+ohci-hcd.c:2066:12:ohci_submit_int_msg	64	static
+ohci-hcd.c:2058:12:ohci_submit_bulk_msg	48	static
+ohci-hcd.c:2048:12:ohci_submit_control_msg	96	static
+ohci-hcd.c:1195:5:rh_check_port_status	0	static
+ohci-hcd.c:2102:5:ohci_register	48	static
+ohci-hcd.c:2129:5:ohci_deregister	32	static

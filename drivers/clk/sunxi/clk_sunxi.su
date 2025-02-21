@@ -1,0 +1,6 @@
+clk_sunxi.c:96:12:sunxi_clk_of_to_plat	32	static
+clk_sunxi.c:79:12:sunxi_clk_probe	64	static
+clk_sunxi.c:72:12:sunxi_clk_bind	32	static
+clk_sunxi.c:29:12:sunxi_set_gate	32	static
+clk_sunxi.c:62:12:sunxi_clk_disable	0	static
+clk_sunxi.c:57:12:sunxi_clk_enable	0	static

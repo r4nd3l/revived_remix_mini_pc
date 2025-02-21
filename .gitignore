@@ -1,0 +1,74 @@
+# Git Ignore File for U-Boot eMMC Formatting Project
+
+# Ignore build artifacts and compiled binaries
+*.o
+*.bin
+*.elf
+*.img
+*.dtb
+*.dtbo
+*.map
+*.srec
+*.lst
+*.lzo
+*.gz
+*.xz
+*.tar
+*.zip
+*.bz2
+*.lz4
+*.tar.*
+
+# Ignore build directories
+/build/
+/tmp/
+/.cache/
+
+# Ignore U-Boot build artifacts
+u-boot*
+spl/
+examples/
+
+# Ignore logs and debug files
+*.log
+*.swp
+*.bak
+*.out
+*.dmp
+*.core
+
+# Ignore editor and OS-generated files
+.DS_Store
+Thumbs.db
+*.~
+*.swo
+*.swp
+*.swn
+*.un~
+
+# Ignore Git and IDE-specific files
+.git/
+.idea/
+.vscode/
+*.iml
+*.class
+*.pyc
+
+# Ignore dependencies and temporary build files
+/dependencies/
+/node_modules/
+/vendor/
+
+# Ignore mounted volumes and disk images
+/mnt/
+/media/
+*.iso
+*.vmdk
+*.qcow2
+
+# Ignore private keys and credentials (if applicable)
+*.pem
+*.crt
+*.key
+config.private
+

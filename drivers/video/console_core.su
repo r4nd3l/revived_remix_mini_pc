@@ -1,0 +1,10 @@
+console_core.c:21:12:console_set_font	48	static
+console_core.c:47:5:check_bpix_support	0	static
+console_core.c:59:13:fill_pixel_and_goto_next	0	static
+console_core.c:78:5:fill_char_vertically	16	static
+console_core.c:131:5:fill_char_horizontally	16	static
+console_core.c:179:5:draw_cursor_vertically	16	static
+console_core.c:210:5:console_probe	0	static
+console_core.c:215:13:console_simple_get_font_size	32	static
+console_core.c:224:5:console_simple_get_font	0	static
+console_core.c:231:5:console_simple_select_font	48	static

@@ -1,0 +1,1 @@
+cmd_drivers/video/sunxi/built-in.o :=  rm -f drivers/video/sunxi/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/video/sunxi/built-in.o drivers/video/sunxi/sunxi_de2.o drivers/video/sunxi/sunxi_dw_hdmi.o drivers/video/sunxi/simplefb_common.o drivers/video/sunxi/lcdc.o drivers/video/sunxi/sunxi_lcd.o

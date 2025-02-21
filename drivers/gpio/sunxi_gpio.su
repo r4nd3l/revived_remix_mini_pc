@@ -1,0 +1,14 @@
+sunxi_gpio.c:262:12:sunxi_gpio_get_value	32	static
+sunxi_gpio.c:328:12:gpio_sunxi_probe	32	static
+sunxi_gpio.c:283:12:sunxi_gpio_xlate	48	static
+sunxi_gpio.c:76:6:sunxi_gpio_set_cfgbank	0	static
+sunxi_gpio.c:85:6:sunxi_gpio_set_cfgpin	0	static
+sunxi_gpio.c:93:5:sunxi_gpio_get_cfgbank	0	static
+sunxi_gpio.c:269:12:sunxi_gpio_get_function	32	static
+sunxi_gpio.c:105:5:sunxi_gpio_get_cfgpin	0	static
+sunxi_gpio.c:134:6:sunxi_gpio_set_drv_bank	0	static
+sunxi_gpio.c:126:6:sunxi_gpio_set_drv	0	static
+sunxi_gpio.c:151:6:sunxi_gpio_set_pull_bank	0	static
+sunxi_gpio.c:143:6:sunxi_gpio_set_pull	0	static
+sunxi_gpio.c:297:12:sunxi_gpio_set_flags	32	static
+sunxi_gpio.c:244:5:sunxi_name_to_gpio	32	static

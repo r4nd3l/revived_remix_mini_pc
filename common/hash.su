@@ -1,0 +1,17 @@
+hash.c:189:27:hash_finish_crc32	16	static
+hash.c:162:12:hash_finish_crc16_ccitt	16	static
+hash.c:181:27:hash_update_crc32	32	static
+hash.c:173:27:hash_init_crc32	32	static
+hash.c:146:12:hash_init_crc16_ccitt	32	static
+hash.c:154:12:hash_update_crc16_ccitt	32	static
+hash.c:81:27:hash_finish_sha256	32	static
+hash.c:73:27:hash_update_sha256	16	static
+hash.c:65:27:hash_init_sha256	32	static
+hash.c:54:27:hash_finish_sha1	32	static
+hash.c:46:27:hash_update_sha1	16	static
+hash.c:38:27:hash_init_sha1	32	static
+hash.c:330:5:hash_lookup_algo	64	static
+hash.c:345:5:hash_progressive_lookup_algo	80	static
+hash.c:364:5:hash_parse_string	64	static
+hash.c:384:5:hash_block	80	static
+hash.c:530:5:hash_command	160	static

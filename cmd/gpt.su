@@ -1,0 +1,5 @@
+gpt.c:101:14:extract_val	80	static
+gpt.c:42:12:extract_env	96	static
+gpt.c:702:12:gpt_enumerate	2272	static
+gpt.c:433:12:set_gpt_info.isra.0.constprop	160	static
+gpt.c:1127:12:do_gpt	256	dynamic

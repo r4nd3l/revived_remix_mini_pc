@@ -1,0 +1,8 @@
+efi_device_path_utilities.c:181:40:create_device_node	48	static
+efi_device_path_utilities.c:160:20:is_device_path_multi_instance	32	static
+efi_device_path_utilities.c:138:40:get_next_device_path_instance	32	static
+efi_device_path_utilities.c:116:40:append_device_path_instance	32	static
+efi_device_path_utilities.c:95:40:append_device_node	32	static
+efi_device_path_utilities.c:74:40:append_device_path	32	static
+efi_device_path_utilities.c:54:40:duplicate_device_path	32	static
+efi_device_path_utilities.c:26:27:get_device_path_size	32	static

@@ -1,0 +1,2 @@
+ohci-generic.c:80:12:ohci_usb_remove	32	static
+ohci-generic.c:23:12:ohci_usb_probe	64	static

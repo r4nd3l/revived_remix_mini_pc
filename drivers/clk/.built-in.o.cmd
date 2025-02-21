@@ -1,0 +1,1 @@
+cmd_drivers/clk/built-in.o :=  rm -f drivers/clk/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/clk/built-in.o drivers/clk/clk-uclass.o drivers/clk/clk_fixed_rate.o drivers/clk/clk_fixed_factor.o drivers/clk/adi/built-in.o drivers/clk/analogbits/built-in.o drivers/clk/imx/built-in.o drivers/clk/tegra/built-in.o drivers/clk/ti/built-in.o drivers/clk/sunxi/built-in.o

@@ -1,0 +1,6 @@
+sunxi_dw_hdmi.c:290:13:sunxi_dw_hdmi_mode_valid	0	static
+sunxi_dw_hdmi.c:296:12:sunxi_dw_hdmi_enable	64	static
+sunxi_dw_hdmi.c:283:12:sunxi_dw_hdmi_read_edid	32	static
+sunxi_dw_hdmi.c:373:12:sunxi_dw_hdmi_of_to_plat	48	static
+sunxi_dw_hdmi.c:273:12:sunxi_dw_hdmi_phy_cfg	48	static
+sunxi_dw_hdmi.c:330:12:sunxi_dw_hdmi_probe	48	static

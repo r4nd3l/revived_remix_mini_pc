@@ -1,0 +1,5 @@
+pinctrl-generic.c:248:13:free_name_with_prefix	0	static
+pinctrl-generic.c:236:20:alloc_name_with_prefix	48	static
+pinctrl-generic.c:388:12:pinctrl_generic_set_state_subnode	176	static
+pinctrl-generic.c:461:5:pinctrl_generic_set_state_prefix	64	static
+pinctrl-generic.c:482:5:pinctrl_generic_set_state	0	static

@@ -1,0 +1,12 @@
+efi_var_mem.c:31:1:efi_var_mem_compare	0	static
+efi_var_mem.c:211:1:efi_var_mem_notify_virtual_address_map	32	static
+efi_var_mem.c:72:19:efi_var_entry_len	32	static
+efi_var_mem.c:254:1:efi_var_collect_mem	96	static
+efi_var_mem.c:82:2:efi_var_mem_find	32	static
+efi_var_mem.c:353:1:efi_get_next_variable_name_mem	80	static
+efi_var_mem.c:305:1:efi_get_variable_mem	64	static
+efi_var_mem.c:127:20:efi_var_mem_del	32	static
+efi_var_mem.c:154:28:efi_var_mem_ins	144	static
+efi_var_mem.c:194:19:efi_var_mem_free	0	static
+efi_var_mem.c:217:14:efi_var_mem_init	48	static
+efi_var_mem.c:396:6:efi_var_buf_update	0	static

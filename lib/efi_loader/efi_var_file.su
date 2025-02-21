@@ -1,0 +1,4 @@
+efi_var_file.c:35:36:efi_set_blk_dev_to_system_partition.part.0	48	static
+efi_var_file.c:60:14:efi_var_to_file	64	static
+efi_var_file.c:99:14:efi_var_restore	80	static
+efi_var_file.c:156:14:efi_var_from_file	48	static

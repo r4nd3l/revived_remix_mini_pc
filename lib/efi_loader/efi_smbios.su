@@ -1,0 +1,2 @@
+efi_smbios.c:58:12:install_smbios_table	32	static
+efi_smbios.c:31:14:efi_smbios_register	32	static

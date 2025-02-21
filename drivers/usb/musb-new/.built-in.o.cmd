@@ -1,0 +1,1 @@
+cmd_drivers/usb/musb-new/built-in.o :=  rm -f drivers/usb/musb-new/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/usb/musb-new/built-in.o drivers/usb/musb-new/musb_gadget.o drivers/usb/musb-new/musb_gadget_ep0.o drivers/usb/musb-new/musb_core.o drivers/usb/musb-new/musb_uboot.o drivers/usb/musb-new/sunxi.o

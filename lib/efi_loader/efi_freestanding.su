@@ -1,0 +1,6 @@
+efi_freestanding.c:23:5:memcmp	0	static
+efi_freestanding.c:45:7:memmove	0	static
+efi_freestanding.c:70:7:memcpy	0	static
+efi_freestanding.c:83:7:memset	0	static
+efi_freestanding.c:104:1:__cyg_profile_func_enter	0	static
+efi_freestanding.c:120:1:__cyg_profile_func_exit	0	static

@@ -1,0 +1,2 @@
+rtc-lib.c:25:5:rtc_month_days	0	static
+rtc-lib.c:37:6:rtc_to_tm	16	static

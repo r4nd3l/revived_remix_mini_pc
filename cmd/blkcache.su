@@ -1,0 +1,3 @@
+blkcache.c:49:12:do_blkcache	48	static
+blkcache.c:29:12:blkc_configure	32	static
+blkcache.c:13:12:blkc_show	48	static

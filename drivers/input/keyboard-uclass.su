@@ -1,0 +1,5 @@
+keyboard-uclass.c:12:12:keyboard_start	0	static
+keyboard-uclass.c:23:12:keyboard_stop	0	static
+keyboard-uclass.c:64:12:keyboard_pre_probe	32	static
+keyboard-uclass.c:34:12:keyboard_tstc	32	static
+keyboard-uclass.c:49:12:keyboard_getc	32	static

@@ -1,0 +1,4 @@
+splash.c:91:12:splash_screen_prepare	16	static
+splash.c:100:6:splash_get_pos	0	static
+splash.c:131:6:splash_display_banner	224	static
+splash.c:161:5:splash_display	0	static

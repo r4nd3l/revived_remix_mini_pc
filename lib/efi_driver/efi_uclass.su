@@ -1,0 +1,8 @@
+efi_uclass.c:341:12:efi_uc_init	0	static
+efi_uclass.c:33:21:check_node_type	48	static
+efi_uclass.c:116:28:efi_uc_start	64	static
+efi_uclass.c:60:28:efi_uc_supported	64	static
+efi_uclass.c:170:21:disconnect_child.part.0	32	static
+efi_uclass.c:353:12:efi_uc_destroy	0	static
+efi_uclass.c:201:28:efi_uc_stop	80	static
+efi_uclass.c:315:14:efi_driver_init	80	static

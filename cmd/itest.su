@@ -1,0 +1,4 @@
+itest.c:52:13:evalexp	32	static
+itest.c:92:15:evalstr	0	static
+itest.c:153:12:binary_test	96	static
+itest.c:178:12:do_itest	32	static

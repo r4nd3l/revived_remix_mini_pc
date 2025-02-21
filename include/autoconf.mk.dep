@@ -1,0 +1,23 @@
+include/config/auto.conf: include/config.h include/linux/kconfig.h \
+ include/generated/autoconf.h include/configs/sun50i.h \
+ include/configs/sunxi-common.h include/linux/stringify.h \
+ include/config_distro_bootcmd.h arch/arm/include/asm/config.h \
+ include/linux/kconfig.h include/config_fallbacks.h
+
+include/linux/kconfig.h:
+
+include/generated/autoconf.h:
+
+include/configs/sun50i.h:
+
+include/configs/sunxi-common.h:
+
+include/linux/stringify.h:
+
+include/config_distro_bootcmd.h:
+
+arch/arm/include/asm/config.h:
+
+include/linux/kconfig.h:
+
+include/config_fallbacks.h:

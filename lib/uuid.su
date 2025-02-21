@@ -1,0 +1,10 @@
+uuid.c:388:13:configure_uuid	0	static
+uuid.c:41:5:uuid_str_valid	0	static
+uuid.c:253:5:uuid_guid_get_bin	0	static
+uuid.c:266:13:uuid_guid_get_str	0	static
+uuid.c:278:5:uuid_str_to_bin	80	static
+uuid.c:322:5:uuid_str_to_le_bin	64	static
+uuid.c:349:6:uuid_bin_to_str	112	static
+uuid.c:401:6:gen_v5_guid	240	static
+uuid.c:440:6:gen_rand_uuid	64	static
+uuid.c:470:6:gen_rand_uuid_str	48	static

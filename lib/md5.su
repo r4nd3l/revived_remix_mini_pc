@@ -1,0 +1,6 @@
+md5.c:42:1:byteReverse	0	static
+md5.c:182:1:MD5Transform	80	static
+md5.c:58:1:MD5Init	0	static
+md5.c:74:1:MD5Update	64	static
+md5.c:123:1:MD5Final	48	static
+md5.c:271:1:md5_wd	160	static

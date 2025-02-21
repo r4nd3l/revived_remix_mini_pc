@@ -1,0 +1,4 @@
+console_normal.c:101:12:console_set_cursor_visible	80	static
+console_normal.c:16:12:console_set_row	96	static
+console_normal.c:45:12:console_move_rows	64	static
+console_normal.c:66:12:console_putc_xy	96	static

@@ -1,0 +1,7 @@
+bdinfo.c:25:6:bdinfo_print_size	32	static
+bdinfo.c:31:6:bdinfo_print_str	0	static
+bdinfo.c:36:6:bdinfo_print_num_l	0	static
+bdinfo.c:41:6:bdinfo_print_num_ll	0	static
+bdinfo.c:68:6:bdinfo_print_mhz	64	static
+bdinfo.c:88:13:arch_print_bdinfo	0	static
+bdinfo.c:180:5:do_bdinfo	112	static

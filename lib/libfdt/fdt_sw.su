@@ -1,0 +1,14 @@
+fdt_sw.c:13:12:fdt_sw_probe_	0	static
+fdt_sw.c:97:14:fdt_grab_space_	0	static
+fdt_sw.c:252:12:fdt_add_string_	48	static
+fdt_sw.c:64:12:fdt_sw_probe_struct_	16	static
+fdt_sw.c:112:5:fdt_create_with_flags	48	static
+fdt_sw.c:146:5:fdt_create	0	static
+fdt_sw.c:151:5:fdt_resize	80	static
+fdt_sw.c:190:5:fdt_add_reservemap_entry	16	static
+fdt_sw.c:210:5:fdt_finish_reservemap	16	static
+fdt_sw.c:221:5:fdt_begin_node	48	static
+fdt_sw.c:238:5:fdt_end_node	16	static
+fdt_sw.c:295:5:fdt_property_placeholder	64	static
+fdt_sw.c:327:5:fdt_property	64	static
+fdt_sw.c:339:5:fdt_finish	64	static

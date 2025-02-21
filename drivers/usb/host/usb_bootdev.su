@@ -1,0 +1,2 @@
+usb_bootdev.c:13:12:usb_bootdev_bind	16	static
+usb_bootdev.c:22:12:usb_bootdev_hunt	0	static

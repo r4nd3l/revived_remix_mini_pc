@@ -1,0 +1,4 @@
+mmc_boot.c:23:5:mmc_boot_partition_size_change	96	static
+mmc_boot.c:85:5:mmc_set_boot_bus_width	0	static
+mmc_boot.c:100:5:mmc_set_part_conf	32	static
+mmc_boot.c:123:5:mmc_set_rst_n_function	0	static

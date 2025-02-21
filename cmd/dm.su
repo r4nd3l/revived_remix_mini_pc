@@ -1,0 +1,8 @@
+dm.c:21:12:do_dm_dump_devres	0	static
+dm.c:123:1:complete_dm	0	static
+dm.c:85:12:do_dm_dump_uclass	32	static
+dm.c:58:12:do_dm_dump_tree	64	static
+dm.c:50:12:do_dm_dump_static_driver_info	16	static
+dm.c:29:12:do_dm_dump_drivers	16	static
+dm.c:13:12:do_dm_dump_driver_compat	16	static
+dm.c:123:1:do_dm	48	static

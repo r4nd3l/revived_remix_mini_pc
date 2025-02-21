@@ -1,0 +1,2 @@
+board_info.c:12:12:checkboard	0	static
+board_info.c:60:5:show_board_info	16	static

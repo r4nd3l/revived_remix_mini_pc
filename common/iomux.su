@@ -1,0 +1,4 @@
+iomux.c:12:6:iomux_printdevs	64	static
+iomux.c:22:5:iomux_match_device	0	static
+iomux.c:33:5:iomux_doenv	96	static
+iomux.c:142:5:iomux_replace_device	112	static

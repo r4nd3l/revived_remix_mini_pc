@@ -1,0 +1,12 @@
+nvedit.c:463:12:do_env_save	16	static
+nvedit.c:1110:12:do_env	48	static
+nvedit.c:1039:12:do_env_exists	96	static
+nvedit.c:188:12:do_env_set	0	static
+nvedit.c:58:12:env_print	112	static
+nvedit.c:89:12:do_env_print	64	static
+nvedit.c:761:12:do_env_import	112	static
+nvedit.c:628:12:do_env_export	128	static
+nvedit.c:547:12:do_env_delete	64	static
+nvedit.c:509:12:do_env_default	16	static
+nvedit.c:426:12:do_env_edit.part.0	1088	static
+nvedit.c:426:12:do_env_edit	0	static

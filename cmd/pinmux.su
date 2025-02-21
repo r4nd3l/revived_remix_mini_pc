@@ -1,0 +1,5 @@
+pinmux.c:160:12:do_pinmux	48	static
+pinmux.c:134:12:do_list	48	static
+pinmux.c:51:12:show_pinmux	192	static
+pinmux.c:93:12:do_status	64	static
+pinmux.c:16:12:do_dev	32	static

@@ -1,0 +1,4 @@
+reset-sunxi.c:23:12:sunxi_reset_request	32	static
+reset-sunxi.c:35:12:sunxi_set_reset	32	static
+reset-sunxi.c:65:12:sunxi_reset_deassert	0	static
+reset-sunxi.c:60:12:sunxi_reset_assert	0	static

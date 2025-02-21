@@ -1,0 +1,13 @@
+hashtable.c:533:12:cmpkey	0	static
+hashtable.c:439:13:_hdelete.isra.1	48	static
+hashtable.c:726:12:drop_var_from_set.part.2	64	static
+hashtable.c:541:12:match_string	32	static
+hashtable.c:570:12:match_entry	624	static
+hashtable.c:95:5:hcreate_r	32	static
+hashtable.c:138:6:hdestroy_r	48	static
+hashtable.c:200:5:hmatch_r	80	static
+hashtable.c:281:5:hsearch_r	112	static
+hashtable.c:452:5:hdelete_r	128	static
+hashtable.c:599:9:hexport_r	144	dynamic
+hashtable.c:788:5:himport_r	208	dynamic
+hashtable.c:989:5:hwalk_r	48	static

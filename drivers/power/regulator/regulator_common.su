@@ -1,0 +1,3 @@
+regulator_common.c:16:5:regulator_common_of_to_plat	48	static
+regulator_common.c:51:5:regulator_common_get_enable	0	static
+regulator_common.c:61:5:regulator_common_set_enable	48	static

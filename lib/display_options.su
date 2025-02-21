@@ -1,0 +1,7 @@
+display_options.c:18:7:display_options_get_banner_priv	64	static
+display_options.c:41:7:display_options_get_banner	0	static
+display_options.c:46:5:display_options	224	static
+display_options.c:56:6:print_freq	48	static
+display_options.c:96:6:print_size	48	static
+display_options.c:151:5:hexdump_line	176	static
+display_options.c:216:5:print_buffer	96	dynamic

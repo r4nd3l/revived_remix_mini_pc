@@ -1,0 +1,8 @@
+tag.c:32:13:tag_get_name	0	static
+tag.c:37:5:dev_tag_set_ptr	48	static
+tag.c:61:5:dev_tag_set_val	48	static
+tag.c:85:5:dev_tag_get_ptr	0	static
+tag.c:102:5:dev_tag_get_val	0	static
+tag.c:119:5:dev_tag_del	16	static
+tag.c:138:5:dev_tag_del_all	32	static
+tag.c:160:6:dev_tag_collect_stats	0	static

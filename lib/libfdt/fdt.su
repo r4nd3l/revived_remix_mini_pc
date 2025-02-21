@@ -1,0 +1,13 @@
+fdt.c:18:9:fdt_ro_probe_	0	static
+fdt.c:62:8:fdt_header_size_	0	static
+fdt.c:76:8:fdt_header_size	0	static
+fdt.c:82:5:fdt_check_header	16	static
+fdt.c:132:13:fdt_offset_ptr	0	static
+fdt.c:154:10:fdt_next_tag	16	static
+fdt.c:209:5:fdt_check_node_offset_	32	static
+fdt.c:218:5:fdt_check_prop_offset_	32	static
+fdt.c:227:5:fdt_next_node	32	static
+fdt.c:267:5:fdt_first_subnode	32	static
+fdt.c:278:5:fdt_next_subnode	48	static
+fdt.c:295:13:fdt_find_string_	48	static
+fdt.c:307:5:fdt_move	16	static

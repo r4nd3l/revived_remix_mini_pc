@@ -1,0 +1,15 @@
+command.c:94:17:find_cmd_tbl	64	static
+command.c:129:17:find_cmd	0	static
+command.c:136:5:cmd_usage	32	static
+command.c:30:5:_do_help	128	dynamic
+command.c:157:5:var_complete	0	static
+command.c:190:5:complete_subcmdv	80	static
+command.c:359:5:cmd_auto_complete	1840	static
+command.c:469:5:cmd_get_data_size	32	static
+command.c:496:6:fixup_cmdtable	0	static
+command.c:541:5:cmd_always_repeatable	0	static
+command.c:549:5:cmd_never_repeatable	0	static
+command.c:557:5:cmd_discard_repeatable	32	static
+command.c:588:20:cmd_process	96	static
+command.c:647:5:cmd_process_error	16	static
+command.c:660:5:cmd_source_script	32	static

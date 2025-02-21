@@ -1,0 +1,9 @@
+smbiosdump.c:37:13:color	0	static
+smbiosdump.c:48:13:print	0	static
+smbiosdump.c:56:13:cls	0	static
+smbiosdump.c:69:13:error	32	static
+smbiosdump.c:292:11:checksum	0	static
+smbiosdump.c:273:14:get_config_table	64	static
+smbiosdump.c:307:21:do_check	32	static
+smbiosdump.c:199:13:starts_with	0	static
+smbiosdump.c:595:21:efi_main	336	static

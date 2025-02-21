@@ -1,0 +1,8 @@
+efi_image_loader.c:285:12:cmp_pe_section	0	static
+efi_image_loader.c:184:13:efi_set_code_and_data_type	32	static
+efi_image_loader.c:87:6:efi_print_image_infos	80	static
+efi_image_loader.c:228:14:efi_image_region_add	64	static
+efi_image_loader.c:310:7:efi_prepare_aligned_image	48	static
+efi_image_loader.c:347:6:efi_image_parse	160	static
+efi_image_loader.c:771:14:efi_check_pe	0	static
+efi_image_loader.c:831:14:efi_load_pe	128	static

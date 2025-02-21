@@ -1,0 +1,9 @@
+fb_common.c:42:6:fastboot_response	160	static
+fb_common.c:63:6:fastboot_fail	0	static
+fb_common.c:74:6:fastboot_okay	0	static
+fb_common.c:92:12:fastboot_set_reboot_flag	0	static
+fb_common.c:128:8:fastboot_get_progress_callback	0	static
+fb_common.c:143:6:fastboot_boot	32	static
+fb_common.c:178:6:fastboot_handle_boot	16	static
+fb_common.c:212:6:fastboot_set_progress_callback	0	static
+fb_common.c:223:6:fastboot_init	0	static

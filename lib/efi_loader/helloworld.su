@@ -1,0 +1,3 @@
+helloworld.c:42:13:uint2dec	0	static
+helloworld.c:187:14:print_device_path.isra.0	48	static
+helloworld.c:221:21:efi_main	160	static

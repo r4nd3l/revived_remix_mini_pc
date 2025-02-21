@@ -1,0 +1,15 @@
+efi_helper.c:71:13:efi_get_basename	0	static
+efi_helper.c:76:5:efi_get_pxe_arch	0	static
+efi_helper.c:146:25:efi_get_dp_from_boot	128	static
+efi_helper.c:183:14:efi_load_option_dp_join	64	static
+efi_helper.c:254:13:guid_to_sha_str	48	static
+efi_helper.c:272:5:algo_to_len	64	static
+efi_helper.c:291:5:efi_link_dev	0	static
+efi_helper.c:304:5:efi_unlink_dev	32	static
+efi_helper.c:327:6:efi_varname_is_load_option	32	static
+efi_helper.c:361:14:efi_next_variable_name	64	static
+efi_helper.c:392:6:efi_search_bootorder	0	static
+efi_helper.c:416:14:efi_env_set_load_options	64	static
+efi_helper.c:504:7:efi_get_configuration_table	64	static
+efi_helper.c:532:14:efi_install_fdt	384	static
+efi_helper.c:629:14:do_bootefi_exec	64	static

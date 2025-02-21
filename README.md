@@ -1,5 +1,7 @@
 # U-Boot eMMC Formatting Guide for Remix Mini PC
 
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/09wezt6aljnjuk9ybq64.jpg)
+
 ## 📌 Disclaimer
 
 **Installing a non-official operating system on the Remix Mini PC is done at your own risk. This process may void your warranty, and there is a potential for hardware or software damage. Proceed with caution and ensure you understand the risks before attempting any modifications!**
@@ -11,6 +13,8 @@ This guide is based on **Ubuntu 22.04**, but similar steps should work on other 
 ## **🚀 Introduction**
 
 The Remix Mini PC was originally an Android-based device but has since lost official support. This guide details how to **revive** the Remix Mini PC by installing an **Armbian-based Linux OS** using **U-Boot and FEL mode**.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ayy0gwteah0vsrjs793m.jpg)
 
 The ultimate goal is to make the Remix Mini PC **function like a Raspberry Pi 3**, capable of running a full Linux environment for tasks like hosting a private Git server, running web services, or serving as an office PC.
 
@@ -70,6 +74,8 @@ sync
 4. Hold down the **reset button** on the Remix Mini PC and power it on.
 5. **After 5-8 seconds**, release the reset button and **press Enter** in the terminal.
 
+![Image of uBoot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p5cnw2th9eivpznf983x.jpg)
+
 This will **side-load the U-Boot binary into RAM**, allowing the system to boot from the SD card.
 
 ### **Step 4: Boot Armbian from SD Card**
@@ -82,6 +88,14 @@ Password: kolbas
 ```
 
 🔹 **Note:** The **same password** is used for `sudo`.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkmsn05m4m30f9i20ixj.jpg)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/afz95tovnxgsbhgoh29d.jpg)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b19uajmnzw4jz7ndshtc.jpg)
 
 ---
 
@@ -101,8 +115,9 @@ If you're interested in **contributing** to this project, we welcome pull reques
 
 By following this guide, you can re-purpose your Remix Mini PC into a fully functional **ARM-based Linux system**. Whether it's for development, media streaming, or hosting services, this method ensures the device remains useful for years to come.
 
-If you found this guide helpful and would like to support future content, consider **buying me a coffee**:
+If you found this guide helpful and would like to support future content, consider to 
 
+<a href="https://www.buymeacoffee.com/devcornercrew" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 🚀 **Happy hacking!** 🎉

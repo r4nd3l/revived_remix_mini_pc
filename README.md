@@ -39,7 +39,7 @@ The ultimate goal is to make the Remix Mini PC **function like a Raspberry Pi 3*
 
 ## **🔧 Installation Guide**
 
-### \*\*Step 1: Install \*\***`sunxi-tools`**
+### **Step 1: Install - `sunxi-tools`**
 
 Clone the repository and install:
 

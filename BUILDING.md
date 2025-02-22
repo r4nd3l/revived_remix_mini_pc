@@ -79,5 +79,5 @@ mmc info
 ## **📜 Conclusion**
 You have now successfully compiled and flashed U-Boot for the Remix Mini PC. This will allow booting from eMMC or an SD card, unlocking the full potential of the device.
 
-For any issues or contributions, please check the [GitHub repository](https://github.com/YOUR-USERNAME/u-boot-emmc-format). 🚀
+For any issues or contributions, please check the [GitHub repository](https://github.com/r4nd3l/revived_remix_mini_pc/issues). 🚀
 

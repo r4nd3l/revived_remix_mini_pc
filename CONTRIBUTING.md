@@ -6,11 +6,11 @@ Thank you for considering contributing to this project! We welcome contributions
 
 ## 📌 How to Get Started
 ### **1️⃣ Fork the Repository**
-1. Go to the GitHub repository: [https://github.com/YOUR-USERNAME/u-boot-emmc-format](https://github.com/YOUR-USERNAME/u-boot-emmc-format)
+1. Go to the GitHub repository: [https://github.com/r4nd3l/revived_remix_mini_pc](https://github.com/r4nd3l/revived_remix_mini_pc)
 2. Click **Fork** (top-right corner) to create your own copy.
 3. Clone your fork to your local machine:
    ```sh
-   git clone https://github.com/YOUR-USERNAME/u-boot-emmc-format.git
+   git clone https://github.com/r4nd3l/revived_remix_mini_pc.git
    cd u-boot-emmc-format
    ```
 

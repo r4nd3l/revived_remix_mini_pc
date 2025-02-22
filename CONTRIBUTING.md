@@ -10,8 +10,10 @@ Thank you for considering contributing to this project! We welcome contributions
 2. Click **Fork** (top-right corner) to create your own copy.
 3. Clone your fork to your local machine:
    ```sh
+
    git clone https://github.com/r4nd3l/revived_remix_mini_pc.git
    cd u-boot-emmc-format
+   
    ```
 
 ### **2️⃣ Set Up the Development Environment**
